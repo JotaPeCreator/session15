@@ -17,7 +17,12 @@ header, footer {
     text-align: center;
     padding: 1em 0;
 }
-dvi{
+div{
     padding: 1em;
-    
+}
+nav{
+    color: white;
+    text-align: left;
+    font-size: 18;
+
 }
